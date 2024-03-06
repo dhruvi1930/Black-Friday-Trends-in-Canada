@@ -5,6 +5,8 @@ This repository provide an analysis of Black Friday sales trends across Canada o
 ### Usefull libraries:
 I have used pandas, numpy, matplotlib.pyplot and seaborn python librbaries to accomplish my task.
 
+By analysing a dataset, I aim to notice the buying habits, preferences, and spending patterns of Canadian buyers during black friday. My analysis covers below insights:
+
 ### Analysis performed:
 1. Purchase Amount by Gender
    <img width="687" alt="Screenshot 2024-03-05 at 8 37 47 PM" src="https://github.com/dhruvi1930/Black-Friday-Trends-in-Canada/assets/112989118/09bc0518-aebe-40b4-ac1d-4afa95268759">
@@ -34,6 +36,10 @@ I have used pandas, numpy, matplotlib.pyplot and seaborn python librbaries to ac
     <img width="1058" alt="Screenshot 2024-03-05 at 8 44 54 PM" src="https://github.com/dhruvi1930/Black-Friday-Trends-in-Canada/assets/112989118/c4118848-e38f-486c-80e0-c04afaf5882d">
 15. Total Purchases by Product Category 3
     <img width="1045" alt="Screenshot 2024-03-05 at 8 45 19 PM" src="https://github.com/dhruvi1930/Black-Friday-Trends-in-Canada/assets/112989118/8f90fbfc-8261-4bf2-8455-a18ae3e8396f">
+
+
+### Conclusion:
+During Black Friday sales, despite strong engagement from males and the 26-35 age group, there exists a notable disparity in participation among females and other age demographics, indicating a potential untapped market for retailers. While occupation category 4 and City Category B exhibit robust purchasing trends, the underperformance of occupation category 8 and varying engagement across city categories underscore the necessity for targeted marketing enhancements. Additionally, while Products 1 and 10 enjoy popularity, the lackluster performance of Products 12 and others suggests the need for diversified product strategies to cater to diverse consumer segments and maximize sales potential.
 
     
     
